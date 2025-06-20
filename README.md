@@ -1,5 +1,5 @@
 # JavaLearning
-Java Learning Journey: Structured for organised documentation and tracking
+Java Learning Journey: Structured for organised documentation and progress tracking
 
 # ☕ Java Learning Journey
 
